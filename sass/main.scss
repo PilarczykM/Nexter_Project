@@ -1,6 +1,9 @@
 @import "./abstracts/variables";
+@import "./abstracts/typography";
 
 @import "./base/base.scss";
+
+@import "./components/future";
 
 @import "./layout/features";
 @import "./layout/footer";
